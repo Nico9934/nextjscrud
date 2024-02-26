@@ -16,9 +16,7 @@ const NewPage = ({ params }) => {
     if (params.id !== undefined) {
       const getTask = async () => {
         try {
-          const res = await axios.get(
-            `http://localhost:3000/api/tasks/${params.id}`
-          );
+          const res = await axios.get(`/api/tasks/${params.id}`);
           const data = await res.data;
           setNewTask(data);
         } catch (error) {
