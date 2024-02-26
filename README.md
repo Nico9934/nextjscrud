@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🔷 NextJsCrud - Descripción del Proyecto 🔷
 
-## Getting Started
+Mi nombre es Nico Rolón, y quiero compartir contigo mi proyecto NextJsCrud, una aplicación desarrollada completamente con Next.js. Este proyecto representa un paso significativo en mi trayectoria como desarrollador FrontEnd, y ha sido construido utilizando tecnologías avanzadas para brindar una experiencia eficiente y atractiva.
 
-First, run the development server:
+## 🚀 Tecnologías Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+NextJsCrud se basa en Next.js, aprovechando la potencia de esta biblioteca de React para construir aplicaciones web rápidas y escalables. Además, se integra con Vercel, Prisma, PostgreSQL y Tailwind CSS para ofrecer un conjunto completo de herramientas para desarrollo, implementación y estilización.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js:** Plataforma que facilita la construcción de aplicaciones web React eficientes y escalables.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Vercel:** Plataforma de implementación que permite desplegar y alojar aplicaciones de manera sencilla y rápida.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Prisma:** ORM (Mapeo Objeto-Relacional) que simplifica la interacción con bases de datos, en este caso, PostgreSQL.
 
-## Learn More
+- **PostgreSQL:** Sistema de gestión de bases de datos relacional utilizado para almacenar y recuperar datos de manera eficiente.
 
-To learn more about Next.js, take a look at the following resources:
+- **Tailwind CSS:** Framework de utilidades de estilo que proporciona un enfoque práctico y fácil de usar para el diseño web.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Estilo y Diseño
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+El proyecto utiliza Tailwind CSS para estilar la interfaz, siguiendo principios de diseño modernos y una metodología centrada en el desarrollo móvil primero (Mobile First). El diseño resultante es completamente responsive, adaptándose a diferentes dispositivos y tamaños de pantalla.
 
-## Deploy on Vercel
+## 📸 Capturas de Pantalla
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Descripción de la imagen](/ruta/de/la/imagen.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🌐 Deploy del Proyecto
+
+Puedes explorar la aplicación NextJsCrud desplegada en Vercel a través del siguiente enlace: [NextJsCrud Deploy]([http://localhost:3000/tasks](https://nextjs-crud-gs5uxzup5-nico9934.vercel.app/?vercelToolbarCode=CmE2a08TRciVzIj))
+
+## ⚙️ Funcionalidades Destacadas
+
+- **Operaciones CRUD:** La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en tareas, brindando una gestión completa de la información.
+
+- **Interfaz Intuitiva:** El diseño de la interfaz se ha desarrollado pensando en la facilidad de uso, proporcionando una experiencia fluida para el usuario.
+
+- **Integración con PostgreSQL:** Utiliza Prisma para interactuar eficientemente con una base de datos PostgreSQL, asegurando una gestión robusta y segura de los datos.
+
+¡Espero que disfrutes explorando NextJsCrud tanto como disfruté desarrollándolo! Si tienes alguna pregunta o sugerencia, ¡no dudes en ponerte en contacto!
+
+
