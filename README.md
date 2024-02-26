@@ -30,7 +30,9 @@ El proyecto utiliza Tailwind CSS para estilar la interfaz, siguiendo principios 
 
 ## 🌐 Deploy del Proyecto
 
-Puedes explorar la aplicación NextJsCrud desplegada en Vercel a través del siguiente enlace: [NextJsCrud Deploy]([http://localhost:3000/tasks](https://nextjs-crud-gs5uxzup5-nico9934.vercel.app/?vercelToolbarCode=CmE2a08TRciVzIj))
+Puedes explorar la aplicación NextJsCrud desplegada en Vercel a través del siguiente enlace:
+([http://localhost:3000/tasks](https://nextjs-crud-gs5uxzup5-nico9934.vercel.app/?vercelToolbarCode=CmE2a08TRciVzIj)
+
 
 ## ⚙️ Funcionalidades Destacadas
 
