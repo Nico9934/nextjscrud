@@ -23,6 +23,8 @@ El proyecto utiliza Tailwind CSS para estilar la interfaz, siguiendo principios 
 ## 📸 Capturas de Pantalla
 
 ![imagen 1](/public/github-screen-1.png)
+![imagen 1](/public/github-screen-2.png)
+![imagen 1](/public/github-screen-3.png)
 
 ## 🌐 Deploy del Proyecto
 
